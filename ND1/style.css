@@ -112,4 +112,9 @@ html, body {
     max-width: 100%;
     height: auto;
   }
+
+  .video-frame {
+    border: none;
+  }
+  
   
